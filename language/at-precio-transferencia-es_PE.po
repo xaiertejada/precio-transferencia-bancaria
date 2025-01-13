@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Precio de Transferencia Bancaria\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-01-13 22:38+0000\n"
+"PO-Revision-Date: 2025-01-13 22:40+0000\n"
+"Last-Translator: \n"
+"Language-Team: Español de Perú\n"
+"Language: es_PE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.14; wp-6.7.1\n"
+"X-Domain: at-precio-transferencia"
+
+#: at_transferencia_admin.php:20
+msgid "Bank transfer price"
+msgstr "Precio por transferencia bancaria"
+
+#: at_transferencia_admin.php:23 at_transferencia_admin.php:35
+msgid "Settings"
+msgstr "Ajustes"
+
+#: at_transferencia_admin.php:40
+msgid "Text of price html"
+msgstr "Texto del precio html"
+
+#: at_transferencia_admin.php:46
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+#: at_transferencia_admin.php:64
+msgid "Price by Bank Transfer"
+msgstr "Precio por transferencia bancaria"
+
+#: at_transferencia_admin.php:66
+msgid "Enter Price"
+msgstr "Introduzca el precio"
+
+#. Name of the plugin
+#. Description of the plugin
+msgid "Precio de Transferencia Bancaria"
+msgstr "Precio de Transferencia Bancaria"
+
+#. URI of the plugin
+msgid "https://alexistejada.com/precio-transferencia-bancaria-para-woocommerce"
+msgstr ""
+"https://alexistejada.com/precio-transferencia-bancaria-para-woocommerce"
+
+#. Author of the plugin
+msgid "Alexis Tejada"
+msgstr "Alexis Tejada"
+
+#. Author URI of the plugin
+msgid "https://alexistejada.com/"
+msgstr "https://alexistejada.com/"
