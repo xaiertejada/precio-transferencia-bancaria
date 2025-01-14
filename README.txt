@@ -8,12 +8,12 @@ Requires PHP: 7.4
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-This plugin adds the **Precio de Transferencia Bancaria** to the Woocommerce checkout - _departamento - _provincia - _distrito
+This **Precio de Transferencia Bancaria** plugin for woocommerce. It adds a price to pay when it is only bank transfer.
 
 == Description ==
 
-This plugin adds the tables to the database _ubigeo_departamento, _ubigeo_provincia, _ubigeo_distrito with respect to Peru.
-Add the **Precio de Transferencia Bancaria** to the Woocommerce checkout - _departamento - _provincia - _distrito.
+This **Precio de Transferencia Bancaria** plugin for woocommerce. It adds a price to pay when it is only bank transfer.
+In addition to putting the price in the product detail.
 
 = View more plugins =
 
@@ -66,19 +66,16 @@ Manual FTP installation
 
 == Frequently Asked Questions ==
 
-= Where did you get the data for the departments, provinces and districts? =
+= Where can I enter the bank transfer price? =
 
-The information was obtained from the following urls:
-  a. http://sige.inei.gob.pe/test/atlas/
-  b. http://www.strategy.org.pe/articulos/cbdf11_strategy_76382231-UBIGEO-PERU-MYSQL.pdf
-  c. http://www.scribd.com/doc/220863416/Cbdf11-Strategy-76382231-Ubigeo-Peru-Mysql
+The bank transfer price is entered in the product detail where the regular price is shown.
 
 
 == Screenshots ==
 
-1. checkout view
-2. Ubigeo Peru Dashboard
-3. Ubigeo Peru Menu
+1. Detail product
+2. PTB Dashboard
+3. PTB Menu
 
 == Changelog ==
 
