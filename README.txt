@@ -2,10 +2,10 @@
 Contributors: alexistejada, renzotejada, huakotech
 Tags: transferencia bancaria, precio, peru
 Requires at least: 5.2
-Tested up to: 6.6.2
-Stable tag: trunk
+Tested up to: 6.7
+Stable tag: 0.1
 Requires PHP: 7.4
-License: GPLv2 or later
+License: GPL-2.0-or-later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 This **Precio de Transferencia Bancaria** plugin for woocommerce. It adds a price to pay when it is only bank transfer.
@@ -81,5 +81,3 @@ The bank transfer price is entered in the product detail where the regular price
 
 = 0.1 =
 Inicio
-
-

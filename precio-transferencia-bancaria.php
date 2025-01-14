@@ -12,9 +12,9 @@
  * Version:           0.1
  * Author:            Alexis Tejada
  * Author URI:        https://alexistejada.com/
- * License:           GNU General Public License v3.0
- * License URI:       http://www.gnu.org/licenses/gpl-3.0.html
- * Text Domain:       at-precio-transferencia
+ * License:           GPL-2.0-or-later
+ * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
+ * Text Domain:       precio-transferencia-bancaria
  * Domain Path:       /language
  * Requires at least: 5.6
  * Requires PHP:      7.4
@@ -38,7 +38,7 @@ add_action( 'before_woocommerce_init', function() {
 
 function at_func_transferencia_load_textdomain()
 {
-    load_plugin_textdomain('at-precio-transferencia', false, basename(dirname(__FILE__)) . '/language/');
+    load_plugin_textdomain('precio-transferencia-bancaria', false, basename(dirname(__FILE__)) . '/language/');
 }
 
 add_action('init', 'at_func_transferencia_load_textdomain');
