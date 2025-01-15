@@ -3,7 +3,7 @@ Contributors: alexistejada
 Tags: transferencia bancaria, precio, peru
 Requires at least: 5.2
 Tested up to: 6.7
-Stable tag: 0.1
+Stable tag: 0.2
 Requires PHP: 7.4
 License: GPL-2.0-or-later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -78,6 +78,9 @@ The bank transfer price is entered in the product detail where the regular price
 3. PTB Menu
 
 == Changelog ==
+
+= 0.2 =
+Solucionando observacion por parte del equipo de wordpress
 
 = 0.1 =
 Inicio

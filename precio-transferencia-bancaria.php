@@ -9,7 +9,7 @@
  * Plugin Name:       Precio Transferencia Bancaria
  * Plugin URI:        https://alexistejada.com/precio-transferencia-bancaria-para-woocommerce
  * Description:       Precio Transferencia Bancaria
- * Version:           0.1
+ * Version:           0.2
  * Author:            Alexis Tejada
  * Author URI:        https://alexistejada.com/
  * License:           GPL-2.0-or-later
