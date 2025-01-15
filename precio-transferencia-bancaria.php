@@ -3,12 +3,12 @@
  *
  *
  * @link              https://alexistejada.com/
- * @package           Precio de Transferencia Bancaria
+ * @package           Precio Transferencia Bancaria
  * @author            Alexis Tejada
  * @wordpress-plugin
- * Plugin Name:       Precio de Transferencia Bancaria
+ * Plugin Name:       Precio Transferencia Bancaria
  * Plugin URI:        https://alexistejada.com/precio-transferencia-bancaria-para-woocommerce
- * Description:       Precio de Transferencia Bancaria
+ * Description:       Precio Transferencia Bancaria
  * Version:           0.1
  * Author:            Alexis Tejada
  * Author URI:        https://alexistejada.com/
